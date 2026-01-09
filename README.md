@@ -12,11 +12,11 @@ This repository contains my daily Python practice problems.
 
 ## Day 01 – Python Practice
 - Today I did very basic executions of syntax
-- Such as printing, spacing, allignment, commenting
-- I solve 10 questions
+- Such as printing, spacing, alignment, and commenting
+- I solved 10 questions
 
-## Day 02 - Python Pratice
-- Today I did pratice of basic questions of for loop, while loop, if-else
+## Day 02 - Python Practice
+- Today I did practice basic questions of for loop, while loop, if-else
 - Also did basic logic building questions as well
 - 10 questions solved for today
 
