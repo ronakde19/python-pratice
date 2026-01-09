@@ -14,3 +14,9 @@ This repository contains my daily Python practice problems.
 - Today I did very basic executions of syntax
 - Such as printing, spacing, allignment, commenting
 - I solve 10 questions
+
+## Day 02 - Python Pratice
+- Today I did pratice of basic questions of for loop, while loop, if-else
+- Also did basic logic building questions as well
+- 10 questions solved for today
+
