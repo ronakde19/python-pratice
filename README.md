@@ -20,3 +20,7 @@ This repository contains my daily Python practice problems.
 - Also did basic logic building questions as well
 - 10 questions solved for today
 
+## Day 03 - Python Practice
+- Today I practice problems related to function call
+- Making of functions
+- Recursion Basics
