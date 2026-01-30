@@ -31,3 +31,14 @@ It means organizing your code like real life objects.
 
 - Self is most important keyword
 - It means current object
+
+# __init.__constructor
+- Constructor runs automatically when object is created.
+- Instance variable to be used in this constructor
+
+# Instance Variablle
+- It is the variable created for each different object
+- Ex - Self.name = name, self.age = age
+
+# Class Variable
+- It is the variable created and shared by all.
