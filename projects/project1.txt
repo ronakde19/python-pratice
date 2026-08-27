@@ -1,0 +1,13 @@
+Fake + funny words to headline
+
+Here we will use words list conntains 
+
+- subjects (Who, What)
+- actions (what they did)
+- objects (where and what it did)
+
+Random module will used
+
+here we ll use list, random.choice, print, input, while loop, string concatination or f strings 
+
+To make the programme here the first step is to input the random module 2nd step is to create links of subject action places with all Indian example Thai used the random module to pick one word from each list Step four combine the words into a headline using string formatting Step 5 print the headline to the user ask if the user if they want another headline if yes repeat if no stop the programme here while loop will be used
