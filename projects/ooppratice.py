@@ -13,4 +13,4 @@ class Student():
             return "C"
 
 s1 = Student("Ronak",92,50)
-print(s1.calculate_grade())
+print(s1.calculate_grade( nh))
