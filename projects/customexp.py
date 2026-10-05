@@ -16,4 +16,4 @@ try:
     acc.withdraw(7000)
 
 except InsufficientfundsError as e:
-    print("Transaction failed", e)
+    print("Transaction failed",e)
